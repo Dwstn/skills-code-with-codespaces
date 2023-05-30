@@ -20,7 +20,7 @@ _Create workflows that enable you to use Continuous Integration (CI) for your pr
   Do not use quotes on the <details> tag attributes.
 -->
 
-<details id=0 open>
+<details id=0>
 <summary><h2>Welcome</h2></summary>
 
 GitHub Codespaces is a development environment that's hosted in the cloud.
@@ -55,7 +55,7 @@ GitHub Codespaces is a development environment that's hosted in the cloud.
 
 </details>
 
-<details id=1>
+<details id=1 open>
 <summary><h2>Step 1: Create your first codespace and push code</h2></summary>
 
 _Welcome to "Develop code using GitHub Codespaces and Visual Studio Code"! :wave:_
